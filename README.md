@@ -1,2 +1,0 @@
-# guessMyNumber
-Udemy Project JavaScript
